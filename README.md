@@ -1,6 +1,6 @@
 
 # Sahibpreet Singh
-ssahibpreetsingh@gmail.com   |  [Linkedin](http://linkedin.com/in/ssahibpreetsingh)   |   [Jovian](https://jovian.com/ssahibpreetsingh) | +918437266967
+[Linkedin](http://linkedin.com/in/ssahibpreetsingh)   |   [Jovian](https://jovian.com/ssahibpreetsingh)
 
 ## EDUCATION
 
