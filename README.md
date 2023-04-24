@@ -17,7 +17,7 @@ B.Tech, Civil Engineering<br>
 
 ## SKILLS & CERTIFICATIONS
 
-**Skills:** Machine Learning, Data Analysis, Deep Learning, NLP,  SQL, Python, Excel, Tableau, Git, Web Dev, DSA <br>
+**Skills:** Python, SQL, Excel, Tableau, Git, Numpy, Pandas, Seaboard, Plotly, Selenium, Scikit-Learn, XGBoost, LightGBM, PyTorch, Data Analysis, Machine Learning, Deep Learning, NLP, Web dev (Flask), Problem Solving  <br>
 **Certifications:** Python and ML Certification Course (Jan 22 - July 22), NLP in Python (Udemy), Deep Learning with PyTorch: Zero to GANS (Jovian)
 
 
@@ -40,11 +40,14 @@ B.Tech, Civil Engineering<br>
 - Created visualizations (histogram, treemap, polar chart, displot, heatmap, etc.) using Seaborn & Plotly
 - Discovered why air quality is better in summer than winter by comparing air pollution & weather data
 
-**Other Projects:** Web Scraping using Beautiful Soup and Selenium (View), SQL Querying - Chinook open source database (View), BI Dashboard - bookshop sales (View)
+**Other Projects:** Web Scraping using Beautiful Soup and Selenium ([View](https://jovian.com/ssahibpreetsingh/scraping-hotels-from-booking-com)), SQL Querying - Chinook open source database ([View](https://jovian.com/ssahibpreetsingh/sql-mini-project)), BI Dashboard - bookshop sales ([View](https://public.tableau.com/app/profile/sahibpreet.singh3917/viz/Ver1_16652936831650/OVerview))
 
 ## WORK EXPERIENCE
-
-### Implementation Conversion Analyst - FIS Global                                                              (Feb 2022 - Current)
+### Data Science Intern - DeepKlarity                                                                           (April 2023 - ongoing) 
+- Working with large datasets having tens of millions of rows.
+- Learning and working on Natural Language Processing tasks (Prompt Engineering).
+- Contributing in a project involving Computer Vision.
+### Implementation Conversion Analyst - FIS Global                                                              (Feb 2022 - Mar 2023)
 - Examined data ﬁles, processes, forms, reports and operational needs of customers.
 - Worked as a Project Manager for 6 Projects & contributed in automating BAU manual process 
-- Prepared & updated 4 reports regularly in excel spreadsheets as a Technical Reporter.
+- Prepared & updated daily and weekly progress reports regularly in excel spreadsheets.
