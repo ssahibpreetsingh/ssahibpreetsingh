@@ -11,7 +11,7 @@
 ### National Institute of Technology, Jalandhar, India                                                        (2017 - 2021)
 B.Tech, Civil Engineering<br>
 **Courses:** Linear Algebra, Calculus, Fourier Analysis, Matrices, Probability, &, Statistics, Programming with C<br>
-**Highlights:** Wrote two research papers and presented them at a National Conference.
+**Highlights:** Wrote two conference papers and presented them at a National Conference.
 
 **Grade 10+2** (Non-Med) - Percentage Score - **95%**							 (2016 -2017)
 
