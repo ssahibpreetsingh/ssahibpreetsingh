@@ -47,7 +47,7 @@ B.Tech, Civil Engineering<br>
 **Other Projects:** Web Scraping using Beautiful Soup and Selenium ([View](https://jovian.com/ssahibpreetsingh/scraping-hotels-from-booking-com)), SQL Querying - Chinook open source database ([View](https://jovian.com/ssahibpreetsingh/sql-mini-project)), BI Dashboard - bookshop sales ([View](https://public.tableau.com/app/profile/sahibpreet.singh3917/viz/Ver1_16652936831650/OVerview))
 
 ## WORK EXPERIENCE
-### Data Science Intern - DeepKlarity                                                                           (April 2023 - ongoing) 
+### Data Science Intern - DeepKlarity                                                                           (April 2023 - June 2023) 
 - Working with large datasets having tens of millions of rows.
 - Learning and working on Natural Language Processing tasks (Prompt Engineering).
 - Contributing in a project involving Computer Vision.
