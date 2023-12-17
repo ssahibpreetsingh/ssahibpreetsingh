@@ -1,6 +1,6 @@
 
 # Sahibpreet Singh
-[Linkedin](http://linkedin.com/in/ssahibpreetsingh)   |  # [Jovian](https://jovian.com/ssahibpreetsingh)
+[Linkedin](http://linkedin.com/in/ssahibpreetsingh)   
 
 ## EDUCATION
 
