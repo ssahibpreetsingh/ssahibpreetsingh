@@ -4,6 +4,10 @@
 
 ## EDUCATION
 
+### PG - Aritificial Intelligence, CDAC (Pune)                                                           (Sept 2023 - Feb 2024)
+**Courses:** Maths for AI, Advanced Python Programming, Practical Machine Learning, Deep Neural Networks, NLP and Computer Vision, ML-OPs <br>
+**Highlights:** 900+ hours of course work. Built a Project "Video Summarization" using advanced CV and NLP technologies. All Inida Rank 32.
+
 ### Data Science Bootcamp, Jovian                                                                        (Aug 2022 - Mar 2023)
 **Courses:** Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics <br>
 **Highlights:** 600+ hours of coursework, 10 coding assignments, 3 projects (Web scraping, EDA, ML)
