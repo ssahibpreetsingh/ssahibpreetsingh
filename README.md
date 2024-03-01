@@ -6,7 +6,7 @@
 
 ### PG - Aritificial Intelligence, CDAC (Pune)                                                           (Sept 2023 - Feb 2024)
 **Courses:** Maths for AI, Advanced Python Programming, Practical Machine Learning, Deep Neural Networks, NLP and Computer Vision, ML-OPs <br>
-**Highlights:** 900+ hours of course work. Built a Project "Video Descriptor" using advanced CV and NLP technologies.
+**Highlights:** 900+ hours of course work. Built a Project "Video Descriptor" using advanced CV and NLP technologies.<br>
 **CCAT Entrance Exam:** All India Rank 32
 ### Data Science Bootcamp, Jovian                                                                        (Aug 2022 - Mar 2023)
 **Courses:** Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics <br>
